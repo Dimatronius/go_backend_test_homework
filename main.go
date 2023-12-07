@@ -1,5 +1,6 @@
 package main
 
+//работа в IDE
 import (
 	"fmt"
 )
